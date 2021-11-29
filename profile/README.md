@@ -12,4 +12,4 @@ Hope we can become friends in the future!
 
 This is me in 2021:
 
-<img src="assets/me-now-2021.JPG" alt="me-now-2021" width="30%" />
+<img src="https://github.com/gtb-2022-li-peng/.github/blob/main/profile/assets/me-now-2021.JPG" alt="me-now-2021" width="30%" />
