@@ -1,12 +1,10 @@
 # Welcome to Li Peng's Org
 
-Hi, I'm Li Peng, a graduate from Dalian University of Technology.
+Hi, I'm Li Peng, a graduate from Dalian University of Technology. And my major is Network Engineering. I come from Chongqing, the mountain city.
 
-You can call me Lean. 
+You can call me Lean and my personal blog is http://www.penglean.com. 
 
-My personal blog is http://www.penglean.com. 
-
-I like sharing my experence with others.
+I like sharing my experience with others.
 
 Hope we can become friends in the future!
 
